@@ -1,0 +1,94 @@
+{
+  "120.229.42.103:13327": {
+    "ucid": "1e5f39d16a0d22a1369ff4d4703ff1a1",
+    "ip": "120.229.42.103:13327",
+    "name": "g.k.n",
+    "bannedBy": "permaban"
+  },
+  "125.122.158.245:58769": {
+    "ucid": "d37917b5c4366fbfc36c536520c06799",
+    "name": "lkyfly1595",
+    "time": 1570553117,
+    "ip": "125.122.158.245:58769",
+    "bannedBy": "autoban"
+  },
+  "220.184.173.137:54253": {
+    "ucid": "e82822110e16cd4ebeab3d7b8d356a52",
+    "name": "八丶雲",
+    "time": 1556549255,
+    "ip": "220.184.173.137:54253",
+    "bannedBy": "autoban"
+  },
+  "122.100.155.46:14439": {
+    "ucid": "e62e7e5b3f01f0fe9780af1416c907a1",
+    "ip": "122.100.155.46",
+    "name": "huik",
+    "bannedBy": "permaban"
+  },
+
+  "1e5f39d16a0d22a1369ff4d4703ff1a1": {
+    "bannedBy": "permaban",
+    "name": "g.k.n"
+  },
+  "4cd48c00994d5d94529460012a65ecb4": {
+    "bannedBy": "permaban",
+    "name": "Shadow"
+  },
+  "e82822110e16cd4ebeab3d7b8d356a52": {
+    "ip": "220.184.173.137:54253",
+    "name": "八丶雲",
+    "bannedBy": "autoban",
+    "ucid": "e82822110e16cd4ebeab3d7b8d356a52",
+    "time": 1556549255
+  },
+  "19358d6370714bac1d06c8399f762d7b": {
+    "bannedBy": "permaban",
+    "name": "8888888888888888888888888"
+  },
+  "d37917b5c4366fbfc36c536520c06799": {
+    "ip": "125.122.158.245:58769",
+    "name": "lkyfly1595",
+    "bannedBy": "autoban",
+    "ucid": "d37917b5c4366fbfc36c536520c06799",
+    "time": 1570553117
+  },
+  "3ded484fc8df2cb68ac8dac704e22c35": {
+    "bannedBy": "permaban",
+    "name": "星野日向"
+  },
+  "dae7075508b86b925070357972ef37d6": {
+    "bannedBy": "permaban",
+    "name": "HeeeSsss"
+  },
+  "df2cad760a9855584246aac824a6e808": {
+    "bannedBy": "permaban",
+    "name": "天谴"
+  },
+  "149924d51781fe66ab4a8c21d064e0a4": {
+    "bannedBy": "permaban",
+    "name": "sunyk"
+  },
+  "bfb6a797d141c39b2ffedb63fee31b8e": {
+    "ip": "61.178.245.25:20871",
+    "name": "纵横谍海豹",
+    "bannedBy": "autoban",
+    "ucid": "bfb6a797d141c39b2ffedb63fee31b8e",
+    "time": 1569846619
+  },
+  "0ebe2ae4791d735efd02273f13f947c1": {
+    "bannedBy": "permaban",
+    "name": "308617"
+  },
+  "e62e7e5b3f01f0fe9780af1416c907a1": {
+    "bannedBy": "permaban",
+    "name": "huik"
+  },
+  "38bfdbf4896ee2500f5b5e1e83ffd60a": {
+    "bannedBy": "permaban",
+    "name": "IGAME"
+  },
+  "51139403d8fe30f7f38ba832aa5a7cde": {
+    "bannedBy": "permaban",
+    "name": "good job"
+  }
+}
