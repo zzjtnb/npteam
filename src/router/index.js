@@ -60,25 +60,25 @@ export const constantRouterMap = [
       //     icon: "el-icon-info" //菜单左侧的icon图标
       //   }
       // },
-      {
-        path: "/game",
-        redirect: '/drone',
-        component: () => import("../views/Game.vue"),
-        meta: {
-          title: "飞行游戏", //菜单名称
-          roles: ["user", "admin"], //当前菜单哪些角色可以看到
-          icon: "el-icon-info" //菜单左侧的icon图标
-        }, children: [
-          {
-            path: "/drone",
-            component: () => import("../views/game/Drone.vue"),
-          },
-          {
-            path: "/airliner",
-            component: () => import("../views/game/Airliner.vue"),
-          },
-        ]
-      },
+      // {
+      //   path: "/game",
+      //   redirect: '/drone',
+      //   component: () => import("../views/Game.vue"),
+      //   meta: {
+      //     title: "飞行游戏", //菜单名称
+      //     roles: ["user", "admin"], //当前菜单哪些角色可以看到
+      //     icon: "el-icon-info" //菜单左侧的icon图标
+      //   }, children: [
+      //     {
+      //       path: "/drone",
+      //       component: () => import("../views/game/Drone.vue"),
+      //     },
+      //     {
+      //       path: "/airliner",
+      //       component: () => import("../views/game/Airliner.vue"),
+      //     },
+      //   ]
+      // },
       {
         path: "/aboutus",
         component: () => import("../views/description/AboutUs.vue"),
